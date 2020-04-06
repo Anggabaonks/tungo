@@ -6,12 +6,12 @@ import (
 	"time"
 	"strconv"
 
-	"github.com/aztecrabbit/liblog"
-	"github.com/aztecrabbit/libutils"
-	"github.com/aztecrabbit/libinject"
-	"github.com/aztecrabbit/libredsocks"
-	"github.com/aztecrabbit/libproxyrotator"
-	"github.com/aztecrabbit/brainfuck-tunnel-go/src/libsshclient"
+	"github.com/Anggabaonks/liblog"
+	"github.com/Anggabaonks/libutils"
+	"github.com/Anggabaonks/libinject"
+	"github.com/Anggabaonks/libredsocks"
+	"github.com/Anggabaonks/libproxyrotator"
+	"github.com/Anggabaonks/tungo/src/libsshclient"
 )
 
 const (
@@ -20,7 +20,7 @@ const (
 	appVersionCode = "1.3.200120"
 
 	copyrightYear = "2020"
-	copyrightAuthor = "Aztec Rabbit"
+	copyrightAuthor = "Aztec Rabbit && Angga baonks"
 )
 
 var (
