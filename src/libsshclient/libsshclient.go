@@ -15,10 +15,10 @@ import (
 var (
 	Loop = true
 	DefaultConfig = &Config{
-		Host: "157.245.62.248",
-		Port: "22",
-		Username: "speedssh.com-aztecrabbit",
-		Password: "aztecrabbit",
+		Host: "49.213.16.151",
+		Port: "443",
+		Username: "anggaa-globalssh11",
+		Password: "12345",
 	}
 )
 
