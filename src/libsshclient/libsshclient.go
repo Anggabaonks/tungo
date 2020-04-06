@@ -8,8 +8,8 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/aztecrabbit/liblog"
-	"github.com/aztecrabbit/libproxyrotator"
+	"github.com/Anggabaonks/liblog"
+	"github.com/Anggabaonks/libproxyrotator"
 )
 
 var (
